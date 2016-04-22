@@ -1,0 +1,21 @@
+{
+  "name": "star-rating-js",
+  "version": "1.0.0",
+  "description": "An easy to use jQuery plugin for a star based rating system",
+  "main": "star-rating.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rating",
+    "star",
+    "jquery",
+    "plugin"
+  ],
+  "repository": "http://github.com/ferrl/star-rating-js",
+  "author": "Lucas Ferreira <lucasferreira@mobister.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
